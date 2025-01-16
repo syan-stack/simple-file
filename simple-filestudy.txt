@@ -1,0 +1,4 @@
+simple file study
+-menyusun pelajaran bahasa program (sql python mango spark snowflakes r power bi)
+menyusun januari setiap harinya dengan pelajaran 
+-mengakhirri januari dengan projek 
