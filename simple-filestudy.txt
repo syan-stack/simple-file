@@ -3,4 +3,4 @@ simple file study
 menyusun januari setiap harinya dengan pelajaran 
 -mengakhirri januari dengan projek 
 _bercita cita membuat database sndiri
--collab dengan orang hebat
+-collab dengan pakar data
